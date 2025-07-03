@@ -1,0 +1,17 @@
+the python conditional making statement are used in
+order the excute a block of code they are "3" types
+1.Decision making statements
+2.Looping/iterative statements
+3.jumping/transfer statements
+
+the python decision making statements
+are used in order execute a particular
+conditions they are
+1.if - block
+2.if - else
+3.elif
+4.nested if
+5.shortand if else
+
+
+
